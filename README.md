@@ -9,7 +9,6 @@ Hello and welcome to my GitHub profile! I'm Chirag Adve, a passionate Full-Stack
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [MyPortfolio](http://chiragadve.vercel.app/)
 * ✉️  You can contact me at [chiragadve4@gmail.com](mailto:chiragadve4@gmail.com)
-* 🚀  I'm currently working on [Fast React Pizza](http://github.com/Chiragadve/fast-react-pizza)
 * 🧠  I'm learning MERN Stack Development
 
 ### Skills
