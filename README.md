@@ -33,16 +33,16 @@ If something here sparks your interest, feel free to explore the repositories or
 - C, C++, Java, JavaScript, Python, PHP
 
 **Frontend**
-- HTML5, CSS3, React, Next.js, Redux, Tailwind CSS, Vite
+- React, Next.js, Redux, Tailwind CSS, Vite
 
 **Backend**
 - Node.js, Express.js, REST APIs
 
 **Databases**
-- MongoDB, MySQL, Firebase
+- MySQL, Supabase Postgres, MongoDB
 
 **Tools & Platforms**
-- Git, VS Code, Google Cloud, WordPress, Figma
+- Git, AWS, VS Code, Google Cloud, Figma
 
 ---
 
